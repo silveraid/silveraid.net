@@ -1,12 +1,12 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'aerial'
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://example.org/"
+theme = "aerial"
 
 [params]
-  name = "Frank Felhoffer"
+  name = "Adam Jensen"
   about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Cloud Cathy Inc."
+  copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
 
